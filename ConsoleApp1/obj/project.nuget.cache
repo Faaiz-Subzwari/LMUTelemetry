@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdSOPvo7wW4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faaiz\\Desktop\\folder of all folders\\Telemetry\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faaiz\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
+    "C:\\Users\\faaiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\faaiz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\faaiz\\.nuget\\packages\\rf2sharedmemorynet\\1.0.4\\rf2sharedmemorynet.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
